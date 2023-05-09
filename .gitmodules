@@ -1,0 +1,3 @@
+[submodule "src/gtools/visualization"]
+	path = src/gtools/visualization
+	url = https://github.com/SP23-CSCE482/visualization.git
